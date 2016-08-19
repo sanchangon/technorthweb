@@ -1,2 +1,2 @@
-# technorthweb
-web content for technorth
+# Technorth Web
+Web content for Technorth
